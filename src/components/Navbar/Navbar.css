@@ -1,0 +1,10 @@
+.categories {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.nav-link {
+  margin-right: 10px; 
+}

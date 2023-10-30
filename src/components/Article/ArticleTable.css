@@ -1,0 +1,29 @@
+
+.article-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.article-row {
+  border: 1px solid #ddd;
+  transition: background-color 0.3s;
+}
+
+.article-cell {
+  padding: 8px;
+  width: 95%;
+}
+
+.favorite-cell {
+  padding: 8px;
+  width: 20%;
+}
+
+.article-row:hover {
+  background-color: #f0f0f0;
+}
+
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+}
